@@ -1,5 +1,5 @@
 _ =
-  telegram_api_key: "" --Your telegram bot api key
+  telegram_api_key: "223824781:AAEMGruh3J5vEXArd23XS4Pimq8W3wfdsHE" --Your telegram bot api key
   insta_api_key: "" --http://bit.ly/1SWWkeY
   google_api_key: "" --http://bit.ly/1VuH0Hl
   bing_api_key: "" --http://bit.ly/1Y89l7A
@@ -11,8 +11,7 @@ _ =
   screenshotmachine_api_key: "b645b8"
   cli_port: 7731
   admins: {
-    110626080
-    123456789
+   152485254
     --your id
   }
   plugs: {
